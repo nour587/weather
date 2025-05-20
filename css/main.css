@@ -1,0 +1,161 @@
+nav{
+    background-color: rgb(30,32,43) !important;
+}
+.title{
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+.sub-title{
+    font-family: "Roboto", sans-serif;
+    font-size: 10px;
+    font-weight: 300;
+}
+.home{
+    color: rgb(0, 154, 216) !important;
+    border: 1.6px solid rgb(0, 154, 216);
+    border-radius: 30px;
+    padding: 5px 25px !important;
+}
+.list{
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.section{
+    background:linear-gradient(rgba(0,0,0,0.2) ,rgba(0,0,0,0.2)) , url(../images/banner.png);
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+}
+.box{
+    width: 75%;
+}
+input {
+    color: white !important;
+    padding: 15px 100px 15px 20px !important;
+    border-radius: 30px;
+    width: 100%;
+    background-color: rgb(30,32,43) ;
+    border: none !important;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+.box button{
+    padding: 5px 35px !important;
+    border-radius: 30px;
+    background-color: #009ad8;
+    color: white;
+    position: absolute;
+    right: 18px;
+    top: 5px;
+    bottom: 5px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+.section2{
+    background-color: rgb(30,32,43) ;
+    height: 35vh;
+}
+.cards{
+    width: 75%;
+    bottom: 3px;
+    z-index: 999;
+}
+.card{
+    border-radius: 30px !important;
+}
+.card-header{
+    background-color: #2d303d;
+}
+.card-body{
+    background-color: #323544;
+    padding-bottom: 40px;
+}
+.card-body h2{
+    font-family: "Roboto", sans-serif;
+    font-size: 80px;
+    font-weight: 700;
+    color: white;
+}
+.p-cloud{
+    color: rgb(0, 154, 216);
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+}
+span img{
+    width: 22px;
+}
+span{
+   color: rgb(191, 193, 200);
+   font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+}
+.card2 .card-header{
+    background-color: #222530;
+}
+.card2 .card-body{
+    background-color: #262936;
+}
+.card-header p {
+    color: rgb(191, 193, 200);
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.card-body h5{
+    color: rgb(191, 193, 200) !important;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+.card-body .deg{
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+}
+.card-body span{
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+.image{
+    width: 50px;
+}
+.section-3{
+    background-color: rgb(38,41,54);
+    height: 35vh;
+}
+.box button .but{
+    padding: 5px 20px !important;
+    right: 10px !important;
+    left: 5px;
+}
+.icons i{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: #1e202b;
+    color: #009ad8;
+    text-align: center;
+    padding-top: 8px;
+    transition: all 0.3s;
+}
+i:hover{
+    background-color: #009ad8;
+    color: white;
+}
+.links{
+    border-radius: 30px;
+    transition: all 0.5s;
+    padding: 5px 15px !important;
+}
+.links:hover{
+    color: rgb(0, 154, 216) !important;
+    border: 1.6px solid rgb(0, 154, 216);
+    
+}
